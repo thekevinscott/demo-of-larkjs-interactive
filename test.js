@@ -1,4 +1,3 @@
-
 const {get_parser} = require('./json_parser.js')
 
 let transformer = {
